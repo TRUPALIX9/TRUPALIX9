@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="zwi-t zwi-d">
+  <title id="zwi-t">ZoneWatch app icon</title>
+  <desc id="zwi-d">A blue motion-zone polygon drawn in perspective on a night-navy tile, with a red detection box and centroid dot for an object inside the zone.</desc>
+  <defs>
+    <linearGradient id="zwi-bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1A2856"/>
+      <stop offset="1" stop-color="#0B1226"/>
+    </linearGradient>
+    <clipPath id="zwi-zone"><path d="M170 182H342L420 374H92Z"/></clipPath>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#zwi-bg)"/>
+  <rect x="1" y="1" width="510" height="510" rx="111" fill="none" stroke="#FFFFFF" stroke-opacity="0.08" stroke-width="2"/>
+  <!-- Motion zone: the polygon the user draws on the video -->
+  <path d="M170 182H342L420 374H92Z" fill="#3D5CFF" fill-opacity="0.2"/>
+  <g clip-path="url(#zwi-zone)" stroke="#7C93FF" stroke-opacity="0.35" stroke-width="4">
+    <path d="M60 246H452M60 310H452"/>
+  </g>
+  <path d="M170 182H342L420 374H92Z" fill="none" stroke="#5B7CFF" stroke-width="24" stroke-linejoin="round"/>
+  <g fill="#E6ECFF">
+    <circle cx="170" cy="182" r="13"/><circle cx="342" cy="182" r="13"/>
+    <circle cx="420" cy="374" r="13"/><circle cx="92" cy="374" r="13"/>
+  </g>
+  <!-- Detection: contour bounding box + centroid inside the zone -->
+  <rect x="196" y="138" width="120" height="180" fill="none" stroke="#FF4A43" stroke-width="22"/>
+  <circle cx="256" cy="228" r="17" fill="#FF4A43"/>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" fill="none" role="img" aria-labelledby="fsi-t fsi-d">
+<title id="fsi-t">File System Engine app icon</title>
+<desc id="fsi-d">The repo's fse-app-icon-master.svg mark, a light folder holding a sky-to-teal engine grid, on its dark slate rounded square, scaled to 512 px.</desc>
+<defs>
+<linearGradient id="fsi-bg" x1="160" y1="120" x2="864" y2="904" gradientUnits="userSpaceOnUse"><stop stop-color="#1E293B"/><stop offset="1" stop-color="#0F172A"/></linearGradient>
+<linearGradient id="fsi-accent" x1="242" y1="236" x2="782" y2="756" gradientUnits="userSpaceOnUse"><stop stop-color="#38BDF8"/><stop offset="1" stop-color="#14B8A6"/></linearGradient>
+<linearGradient id="fsi-folder" x1="244" y1="300" x2="780" y2="740" gradientUnits="userSpaceOnUse"><stop stop-color="#E2E8F0" stop-opacity="0.96"/><stop offset="1" stop-color="#CBD5E1" stop-opacity="0.88"/></linearGradient>
+</defs>
+<g transform="scale(0.615385) translate(-96 -96)">
+<rect x="96" y="96" width="832" height="832" rx="184" fill="url(#fsi-bg)"/>
+<rect x="242" y="252" width="236" height="86" rx="42" fill="#334155"/>
+<path d="M224 344C224 306.444 254.444 276 292 276H432.844C455.403 276 476.481 287.192 489.117 305.882L518.884 350H732C769.556 350 800 380.444 800 418V664C800 701.556 769.556 732 732 732H292C254.444 732 224 701.556 224 664V344Z" fill="url(#fsi-folder)"/>
+<rect x="302" y="418" width="420" height="256" rx="54" fill="#0F172A" fill-opacity="0.94" stroke="url(#fsi-accent)" stroke-width="22"/>
+<rect x="348" y="464" width="86" height="74" rx="18" fill="url(#fsi-accent)"/>
+<rect x="470" y="464" width="86" height="74" rx="18" fill="#38BDF8" fill-opacity="0.86"/>
+<rect x="592" y="464" width="86" height="74" rx="18" fill="#14B8A6" fill-opacity="0.9"/>
+<rect x="348" y="554" width="86" height="74" rx="18" fill="#38BDF8" fill-opacity="0.78"/>
+<rect x="470" y="554" width="86" height="74" rx="18" fill="#E2E8F0" fill-opacity="0.96"/>
+<path d="M586 593L678 593" stroke="url(#fsi-accent)" stroke-width="22" stroke-linecap="round"/>
+<path d="M620 380L716 380" stroke="url(#fsi-accent)" stroke-width="22" stroke-linecap="round" opacity="0.95"/>
+<path d="M690 332L744 278" stroke="url(#fsi-accent)" stroke-width="18" stroke-linecap="round" opacity="0.72"/>
+</g>
+</svg>

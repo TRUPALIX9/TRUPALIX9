@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="ic-t ic-d">
+<title id="ic-t">WebGL Academic Presentation icon</title>
+<desc id="ic-d">App icon: a shaded wireframe icosahedron with cyan vertices on the showcase's near-black ground.</desc>
+<defs><style>.s{font-family:'Avenir Next',Inter,'Segoe UI','Helvetica Neue',Arial,sans-serif}.m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}.g{font-family:Georgia,'Times New Roman',serif}.u{font-family:system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif}</style></defs>
+<linearGradient id="ic-tile" x1="0" y1="0" x2="0" y2="512" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#0E1315"/><stop offset="1" stop-color="#030607"/></linearGradient>
+<radialGradient id="ic-glow" cx="256" cy="262" r="210" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#00FFCC" stop-opacity="0.16"/><stop offset="1" stop-color="#00FFCC" stop-opacity="0"/></radialGradient>
+<rect width="512" height="512" rx="112" fill="url(#ic-tile)"/>
+<rect width="512" height="512" rx="112" fill="url(#ic-glow)"/>
+<rect x="3" y="3" width="506" height="506" rx="109" fill="none" stroke="#00FFCC" stroke-opacity="0.16" stroke-width="6"/>
+<g id="ic-gem">
+<polygon points="165,308.5 108.8,341 108.8,171" fill="#00FFCC" fill-opacity="0.198"/>
+<polygon points="165,308.5 108.8,341 256,426" fill="#00FFCC" fill-opacity="0.070"/>
+<polygon points="347,308.5 403.2,341 256,426" fill="#00FFCC" fill-opacity="0.070"/>
+<polygon points="256,150.9 256,86 403.2,171" fill="#00FFCC" fill-opacity="0.260"/>
+<polygon points="347,308.5 403.2,341 403.2,171" fill="#00FFCC" fill-opacity="0.070"/>
+<polygon points="256,150.9 256,86 108.8,171" fill="#00FFCC" fill-opacity="0.400"/>
+<polygon points="165,308.5 347,308.5 256,426" fill="#00FFCC" fill-opacity="0.081"/>
+<polygon points="256,150.9 165,308.5 108.8,171" fill="#00FFCC" fill-opacity="0.422"/>
+<polygon points="256,150.9 347,308.5 403.2,171" fill="#00FFCC" fill-opacity="0.203"/>
+<polygon points="256,150.9 165,308.5 347,308.5" fill="#00FFCC" fill-opacity="0.289"/>
+<path d="M256 150.9L165 308.5M256 150.9L347 308.5M256 150.9L256 86M256 150.9L403.2 171M256 150.9L108.8 171M165 308.5L347 308.5M165 308.5L108.8 341M165 308.5L108.8 171M165 308.5L256 426M347 308.5L403.2 341M347 308.5L403.2 171M347 308.5L256 426M108.8 341L108.8 171M108.8 341L256 426M403.2 341L403.2 171M403.2 341L256 426M256 86L403.2 171M256 86L108.8 171" fill="none" stroke="#00FFCC" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="256" cy="150.9" r="14" fill="#00FFCC"/>
+<circle cx="165" cy="308.5" r="14" fill="#00FFCC"/>
+<circle cx="347" cy="308.5" r="14" fill="#00FFCC"/>
+<circle cx="108.8" cy="341" r="14" fill="#00FFCC"/>
+<circle cx="403.2" cy="341" r="14" fill="#00FFCC"/>
+<circle cx="256" cy="86" r="14" fill="#00FFCC"/>
+<circle cx="403.2" cy="171" r="14" fill="#00FFCC"/>
+<circle cx="108.8" cy="171" r="14" fill="#00FFCC"/>
+<circle cx="256" cy="426" r="14" fill="#00FFCC"/>
+</g>
+</svg>
