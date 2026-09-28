@@ -7,7 +7,7 @@
 **Full-stack software engineer. I build products people actually use, from the backend to the pixels.**
 
 <a href="https://trupalpatel.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&duration=2800&pause=900&color=4ADE80&center=true&vCenter=true&width=640&lines=Full-stack+software+engineer;Shipping+StoreDesk+%26+LogicSprint;React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+Python+%C2%B7+C%23;Edge+POS+%C2%B7+SaaS+%C2%B7+Mobile+%C2%B7+AI" alt="Full-stack software engineer · Shipping StoreDesk & LogicSprint" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&duration=2800&pause=900&color=4ADE80&center=true&vCenter=true&width=640&lines=Full-stack+software+engineer;5+products+live+for+real+users;React+%C2%B7+Next.js+%C2%B7+Python+%C2%B7+Flutter+%C2%B7+C%23;SaaS+%C2%B7+Edge+POS+%C2%B7+Mobile+%C2%B7+AI+%C2%B7+GCP" alt="Full-stack software engineer · 5 products live for real users" />
 </a>
 
 <br />
@@ -25,21 +25,25 @@ I handle the whole software lifecycle: backend architecture and data pipelines, 
 
 ## 🚀 Live products
 
+Software shipped to real users, each with its own site and a summary on [trupalpatel.com/products](https://trupalpatel.com/products).
+
 | | Product | What it is | Links |
 |:-:|---|---|---|
 | <img src="assets/icons/storedesk.svg" width="44" alt="" /> | **StoreDesk** | A local-first back office for convenience stores and gas stations: an in-store edge node, a Windows desktop app, an Android barcode scanner, a web dashboard and a cloud relay. | [storedesk.net](https://storedesk.net) · [Product page](https://trupalpatel.com/products/storedesk) |
-| <img src="assets/icons/logicsprint.png" width="44" alt="" /> | **LogicSprint** | An Android app with four endless brain games for reflexes, memory, math and focus, with a global Top 10 per game and no login. | [logicsprint.trupalpatel.com](https://logicsprint.trupalpatel.com) · [Product page](https://trupalpatel.com/products/logicsprint) |
+| <img src="assets/icons/contact-convoy.png" width="44" alt="" /> | **Contact Convoy** | A business-card scanner for sales teams, live on Google Play: scan a card, let AI tidy the fields, and follow up on every lead as a team. | [contactconvoy.com](https://www.contactconvoy.com) · [Product page](https://trupalpatel.com/products/contact-convoy) |
+| <img src="assets/icons/logicsprint.png" width="44" alt="" /> | **LogicSprint** | An Android app with four endless brain games for reflexes, memory, math and focus, with daily global Top 10s, `NAME#1234` tags and no login. | [logicsprint.trupalpatel.com](https://logicsprint.trupalpatel.com) · [Product page](https://trupalpatel.com/products/logicsprint) |
+| <img src="assets/icons/dr-nandini.png" width="44" alt="" /> | **Dr. Nandini Jansari Physiotherapy** | A patient-facing site and admin panel for a home-visit physiotherapist: a scroll-driven 3D anatomy explorer, 39 condition pages and WhatsApp booking. | [drnandini.com](https://www.drnandini.com) · [Product page](https://trupalpatel.com/products/dr-nandini-physio) |
+| <img src="assets/icons/meghvin.png" width="44" alt="" /> | **MeghVin Foundation** | The website and admin for a tree plantation and community trust, in English and Gujarati, so the trustees run everything from one place. | [Product page](https://trupalpatel.com/products/meghvin-foundation) |
 
 ## 🧪 Projects
 
-Every project has a case study on [trupalpatel.com](https://trupalpatel.com/projects) and a README with recreated screens.
+Every project has a case study on [trupalpatel.com/projects](https://trupalpatel.com/projects).
 
 | | Project | What it is | |
 |:-:|---|---|:-:|
 | <img src="assets/icons/retailsync.svg" width="40" alt="" /> | **[RetailSync](https://github.com/comp596-spring-2026/RetailSync)** | Multi-tenant retail SaaS: POS imports, bank statements and QuickBooks in one workspace (team project) | [Case study](https://trupalpatel.com/projects/retailsync) |
 | <img src="assets/icons/web-warehouse.svg" width="40" alt="" /> | **[Web Warehouse](https://github.com/TRUPALIX9/web-warehouse)** | Inventory, purchase orders and warehouse slots, with a 3D item preview | [Case study](https://trupalpatel.com/projects/web-warehouse) |
-| <img src="assets/icons/card-snap.svg" width="40" alt="" /> | **[Card Snap](https://github.com/TRUPALIX9/card-snap)** | Business-card scanner: a React Native (Expo) app and a Node.js OCR API | [Case study](https://trupalpatel.com/projects/card-snap) |
-| <img src="assets/icons/shipping-agent-aws.svg" width="40" alt="" /> | **[Shipping Agent Assistant](https://github.com/TRUPALIX9/Shipping-Agent-AWS)** | Streamlit chat front end for an AWS Bedrock shipping agent (team project) | [Case study](https://trupalpatel.com/projects/shipping-agent-aws) |
+| <img src="assets/icons/shipping-agent.svg" width="40" alt="" /> | **[Shipping Agent](https://github.com/Shipping-Agent/shipping-agent)** | Paste an order, get a label: an AI shipping desk that quotes every carrier through ShipStation and checks out to a printable label (began as an AWS Bedrock team prototype) | [Case study](https://trupalpatel.com/projects/shipping-agent) |
 | <img src="assets/icons/fire-forecasting.svg" width="40" alt="" /> | **[Fire Forecasting](https://github.com/TRUPALIX9/fire-forecasting)** | Wildfire risk dashboard prototype: forecast map, risk charts and site table on sample data | [Case study](https://trupalpatel.com/projects/fire-forecasting) |
 | <img src="assets/icons/motion-detection.svg" width="40" alt="" /> | **[ZoneWatch](https://github.com/TRUPALIX9/Motion-Detection-Windows-App)** | Zone-based motion detection for ONVIF IP cameras, with PTZ control (C# WinForms, EmguCV) | [Case study](https://trupalpatel.com/projects/motion-detection) |
 | <img src="assets/icons/vehicle-log.svg" width="40" alt="" /> | **[Gatelog](https://github.com/TRUPALIX9/Vehicle-Log-Managment-System)** | Proof-of-concept Windows installer and updater for a vehicle-log server stack | [Case study](https://trupalpatel.com/projects/vehicle-log) |
@@ -49,13 +53,13 @@ Every project has a case study on [trupalpatel.com](https://trupalpatel.com/proj
 ## 💼 Experience
 
 ### Founding Software Engineer @ **Allyvia** _(Jul 2025 – Apr 2026)_
-* **SaaS architecture:** Architected and built a multi-tenant workflow and CRM SaaS platform from scratch with **React 19 + TypeScript** on the frontend and **Django 5.0 + Django REST Framework** with **PostgreSQL** on the backend.
-* **Asynchronous pipelines:** Built a background worker on **AWS SQS** queues to offload QuickBooks Online accounting syncs and webhook ingestion, keeping core web server latency under 200ms.
-* **Integrations and security:** Automated secure employee onboarding with database-level encryption (`django-fernet-fields`) for OAuth token cycles, clock-in kiosk sessions and Google Drive folder provisioning.
-* **Fuzzy search:** Sped up search across large datasets with PostgreSQL trigram similarity search, with a SQLite fallback.
+* **Cloud-native SaaS:** Architected a full-stack workflow, finance and CRM platform on **Google Cloud** with **React 19 + TypeScript** and **Python / Django REST Framework**.
+* **Data pipelines:** Built **BigQuery** analytics pipelines with incremental QuickBooks syncs and Python transforms, keeping API responses under **200ms**.
+* **Event-driven ingestion:** Moved document and webhook ingestion onto **Pub/Sub** workers and **Cloud Storage**, feeding AI-enabled REST APIs for a GenAI prototype assistant.
+* **Secure multi-tenant workflows:** PIN-authorized kiosk clock-in, RBAC route guarding and OAuth token refresh, plus a CRM hub and inventory sync with PostgreSQL trigram search.
 
 ### Software Engineer @ **AIVID.AI** _(Jan 2023 – Jun 2025)_
-* **Scale:** Deployed and maintained device-management portals and real-time analytics dashboards across **200+ enterprise production sites** with Angular, React, Node.js and Python.
+* **Scale:** Deployed analytics pipelines and device-management portals across **200+ enterprise production sites** with Angular, React, TypeScript, Node.js and Python.
 * **Search:** Made Elasticsearch retrieval **~25% faster** through index mapping and aggregation optimizations.
 * **Edge services in C#:** Built a C# / WinForms NSSM service manager with multi-ISP failover, keeping **99% stream uptime** across edge camera networks.
 * **Computer vision:** Built barcode-triggered video capture bots with C# and EmguCV, cutting fraudulent shipping return claims by **90%**.
@@ -70,12 +74,13 @@ More detail in the [experience deep dives](https://trupalpatel.com/#experience).
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | TypeScript, JavaScript, Python, C#, C++, Dart, SQL, HTML, CSS |
+| **Languages** | TypeScript, JavaScript, Python, Dart, C#, C++, SQL, HTML, CSS |
 | **Frontend** | React 19, Next.js, Angular, Vite, React Native (Expo), Flutter |
 | **State and styling** | Redux Toolkit, React Query, Material UI, Tailwind CSS, Framer Motion |
 | **Backend and APIs** | Node.js, Express, Django, Django REST Framework, FastAPI, Streamlit, WebSockets, GraphQL |
-| **Data** | PostgreSQL, MongoDB, MySQL, SQLite, Elasticsearch, Redis, Supabase |
-| **Cloud and DevOps** | AWS (SQS, Bedrock, EC2, Lambda, S3), Google Cloud, Docker, GitHub Actions, Vercel |
+| **Data** | PostgreSQL, BigQuery, MongoDB, MySQL, SQLite, Elasticsearch, Redis, Supabase |
+| **Cloud and DevOps** | Google Cloud (BigQuery, Pub/Sub, Cloud Storage, Cloud Run), AWS (SQS, Bedrock, EC2, Lambda, S3), Docker, GitHub Actions, Vercel |
+| **AI** | Vertex AI, Gemini, Groq, OpenAI, AWS Bedrock, Google ML Kit |
 | **3D, vision and devices** | Three.js, React Three Fiber, EmguCV / OpenCV, ONVIF cameras, Electron, Arduino |
 
 ## 🏅 Certifications
