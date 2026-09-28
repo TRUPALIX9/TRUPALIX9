@@ -92,5 +92,8 @@ AI Mastery Certificate (Cal Poly Digital Transformation Hub) · Meta Front-End D
 **[trupalpatel.com](https://trupalpatel.com)** · **[trupal.work@gmail.com](mailto:trupal.work@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/trupalix)**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TRUPALIX9&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Trupal's GitHub stats" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg" />
+    <img src="assets/stats-light.svg" width="840" alt="Trupal's GitHub stats: contributions in the last year, commits, pull requests, private contributions, public repos and top languages" />
+  </picture>
 </p>
